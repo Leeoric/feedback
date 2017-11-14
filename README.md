@@ -1,6 +1,7 @@
-# translate
+# feedback pages
 
-> A Vue.js project
+> Query feedback data pages for 3c with Vue.js
+> Contains query data and translate code feature
 
 ## Build Setup
 
