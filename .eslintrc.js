@@ -23,6 +23,7 @@ module.exports = {
     'generator-star-spacing': 0,
     // allow debugger during development
     'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0,
-    "spaced-comment": ["off"]
+    'spaced-comment': ['off'],
+    'no-trailing-spaces': 1,//一行结束后面不要有空格
   }
 }
